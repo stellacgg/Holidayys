@@ -7,7 +7,7 @@ body, html {
 #herosection {
     width: 100%;
     height: 500px; /* Höhe der Hero-Section */
-    background-image: url("../../bilder/Strand.jpg");
+    background-image: url("Strand.jpg");
     background-attachment: fixed; /* Erzeugt den Parallax-Effekt */
     background-position: center;
     background-repeat: no-repeat;
